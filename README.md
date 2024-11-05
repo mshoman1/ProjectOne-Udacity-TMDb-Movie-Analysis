@@ -29,7 +29,9 @@ The dataset includes information for approximately 10,000 movies and contains ke
    ```bash
    git clone https://github.com/yourusername/your-repository.git
 2. Install the necessary libraries:
+   
    pip install -r requirements.txt
+   
 3. Open and run the Jupyter Notebook to view the analysis.
 
 ## Requirements
