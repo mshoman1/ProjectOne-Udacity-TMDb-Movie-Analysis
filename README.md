@@ -28,3 +28,10 @@ The dataset includes information for approximately 10,000 movies and contains ke
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/your-repository.git
+2. Install the necessary libraries:
+   pip install -r requirements.txt
+3. Open and run the Jupyter Notebook to view the analysis.
+
+## Requirements
+- Python 3.x
+- Libraries: `numpy`, `pandas`, `matplotlib`, `seaborn`
